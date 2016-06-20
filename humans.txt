@@ -1,0 +1,9 @@
+/* SITE */
+Last Updated: 2016/06/21
+Standards: HTML5, CSS3
+Components: jekyll, jekyll-sass-converter, kramdown, liquid, rouge, github-pages-health-check, jemoji, jekyll-mentions, jekyll-redirect-from, jekyll-sitemap, jekyll-feed, jekyll-gist, jekyll-paginate, jekyll-coffeescript, jekyll-seo-tag, jekyll-github-metadata, listen, ruby, github-pages, html-pipeline, sass, safe_yaml
+
+/* TEAM */
+Name: mariaproiete
+Site: https://github.com/mariaproiete
+
