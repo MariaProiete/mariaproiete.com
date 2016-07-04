@@ -3,4 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-Sitemap: https://mariaproiete.github.io/sitemap.xml
+Sitemap: http://mariaproiete.com/sitemap.xml
